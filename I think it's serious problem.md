@@ -15,3 +15,10 @@ I think it's serious problem.
 
     文の構造や表現には問題はありませんでした。
 ```
+
+#### 補足
+
+```
+“believe” は ”think” よりフォーマルな表現になります。
+引用:https://www.gabastyle.com/english/synonym/synonym028/
+```
